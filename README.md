@@ -38,3 +38,5 @@ Para fazer o deploy de uma aplicação utilizando contêineres no Cloud Run, dev
 		<li>Acesso à aplicação: Após a implantação bem-sucedida, o Cloud Run fornecerá um URL público para acessar a sua aplicação. Você pode usar esse URL para acessar e testar a aplicação.</li>
 	</ol>
 </table>
+
+O Cloud Run é altamente escalável, permitindo que sua aplicação se ajuste automaticamente à demanda. Além disso, você paga apenas pelos recursos utilizados durante a execução da aplicação, o que o torna econômico.
